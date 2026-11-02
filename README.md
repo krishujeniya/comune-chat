@@ -1,3 +1,5 @@
+[![Download APK](https://img.shields.io/github/v/release/krishujeniya/comune-chat?color=blue&label=Download%20APK&logo=android)](https://github.com/krishujeniya/comune-chat/releases/latest)
+
 
 <a id="readme-top"></a>
 
