@@ -3,15 +3,15 @@
 
 <a id="readme-top"></a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/COMUNE-The-Chatting-App)
-![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/COMUNE-The-Chatting-App)
-![GitHub stars](https://img.shields.io/github/stars/krishujeniya/COMUNE-The-Chatting-App?style=social)
-![GitHub forks](https://img.shields.io/github/forks/krishujeniya/COMUNE-The-Chatting-App?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/comune-chat)
+![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/comune-chat)
+![GitHub stars](https://img.shields.io/github/stars/krishujeniya/comune-chat?style=social)
+![GitHub forks](https://img.shields.io/github/forks/krishujeniya/comune-chat?style=social)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/krishujeniya/COMUNE-The-Chatting-App">
+  <a href="https://github.com/krishujeniya/comune-chat">
     <img src="assets/images/logo.png" alt="Logo" width="200px">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A modern and efficient chatting application for seamless communication.
     <br />
-    <a href="https://github.com/krishujeniya/COMUNE-The-Chatting-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/krishujeniya/comune-chat"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/krishujeniya/COMUNE-The-Chatting-App">View Demo</a>
+    <a href="https://github.com/krishujeniya/comune-chat">View Demo</a>
     ·
-    <a href="https://github.com/krishujeniya/COMUNE-The-Chatting-App/issues">Report Bug</a>
+    <a href="https://github.com/krishujeniya/comune-chat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/krishujeniya/COMUNE-The-Chatting-App/issues">Request Feature</a>
+    <a href="https://github.com/krishujeniya/comune-chat/issues">Request Feature</a>
   </p>
 </div>
 
@@ -89,8 +89,8 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/krishujeniya/COMUNE-The-Chatting-App.git
-   cd COMUNE-The-Chatting-App
+   git clone https://github.com/krishujeniya/comune-chat.git
+   cd comune-chat
    ```
 2. Install dependencies
    ```sh
@@ -112,4 +112,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - [Dart](https://dart.dev/)
 - [Flutter](https://flutter.dev/)
 - [Open Source Community](https://opensource.org/)
-- [Contributors](https://github.com/krishujeniya/COMUNE-The-Chatting-App/graphs/contributors)
+- [Contributors](https://github.com/krishujeniya/comune-chat/graphs/contributors)
